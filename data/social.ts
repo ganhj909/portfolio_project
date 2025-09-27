@@ -15,7 +15,7 @@ export interface SocialLink {
     {
       id: "linkedin",
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/gan-hong-jian-133262385/",
+      url: "https://www.linkedin.com/in/gan-hong-jian-31a248387/",
       icon: "linkedin"
     },
     {
