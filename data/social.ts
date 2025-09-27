@@ -29,11 +29,5 @@ export interface SocialLink {
       name: "Whatsapp",
       url: "https://wa.me/17637428520",
       icon: "whatsapp"
-    },
-    {
-      id: "telegram",
-      name: "Telegram",
-      url: "https://t.me/ganhj_works",
-      icon: "telegram"
     }
   ];
