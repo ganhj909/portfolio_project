@@ -27,8 +27,8 @@ const testimonials: Testimonial[] = [
     quote: "I am a Senior Backend Developer with over 7 years of experience designing and building scalable, secure, and high-performance backend systems. My expertise lies in architecting APIs, managing complex databases, and ensuring seamless communication between applications and services."
   },
   {
-    id: "muhamad",
-    name: "Muhamad Zainal",
+    id: "hira",
+    name: "Hira Nguyen",
     position: "Frontend Developer providing visually appealing, responsive, and interactive interfaces",
     relation: "Designer",
     date: "May 23, 2024",
@@ -45,8 +45,8 @@ const testimonials: Testimonial[] = [
     quote: "I am a Full-Stack Web Developer with experience in designing, building, and maintaining end-to-end web applications. I specialize in creating modern, responsive, and scalable solutions that bridge the gap between user-facing interfaces and server-side functionality."
   },
   {
-    id: "hira",
-    name: "Hira Nguyen",
+    id: "muhamad",
+    name: "Muhamad Zainal",
     position: "Mobile developer focus on clean, maintainable code",
     relation: "Developer",
     date: "June 5, 2024",
