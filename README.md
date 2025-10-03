@@ -4,8 +4,6 @@ A modern, responsive portfolio website built with Next.js 14, Tailwind CSS, and 
 
 ![Portfolio Preview](https://via.placeholder.com/800x400?text=Portfolio+Preview)
 
-Live Website: [https://ganhjworks.com](https://www.ganhjworks.com/)
-
 ## Table of Contents
 
 - [Overview](#overview)
@@ -152,7 +150,7 @@ If you'd like to use this template for your own portfolio website, you are welco
 ### Attribution Requirements
 
 1. **Required Attribution**:
-   - You must maintain the original credit in the footer: "Original design by [Gan Hong Jian](https://github.com/ganhj99)"
+   - You must maintain the original credit in the footer: "Original design by [Gan Hong Jian](https://github.com/ganhj909)"
    - Keep the attribution link in the README
 
 2. **GitHub Repository**:
@@ -180,7 +178,7 @@ customized with my personal information and projects.
 
 For your website footer:
 ```html
-Design inspired by <a href="https://github.com/ganhj99" target="_blank" rel="noopener noreferrer">Gan Hong Jian</a>
+Design inspired by <a href="https://github.com/ganhj909" target="_blank" rel="noopener noreferrer">Gan Hong Jian</a>
 ```
 
 ## Deployment
@@ -202,7 +200,7 @@ For other platforms, refer to the [Next.js deployment documentation](https://nex
 
 ## Credits
 
-- Design & Development: [Gan Hong Jian](https://github.com/ganhj99)
+- Design & Development: [Gan Hong Jian](https://github.com/ganhj909)
 - UI Components: [shadcn/ui](https://ui.shadcn.com/)
 - Icons: [Lucide React](https://lucide.dev/)
 - Animation: [Framer Motion](https://www.framer.com/motion/)

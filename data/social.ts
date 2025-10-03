@@ -9,13 +9,13 @@ export interface SocialLink {
     {
       id: "github",
       name: "GitHub",
-      url: "https://github.com/ganhj99",
+      url: "https://github.com/ganhj909",
       icon: "github"
     },
     {
       id: "linkedin",
       name: "LinkedIn",
-      url: "https://www.linkedin.com/in/gan-hong-jian-31a248387/",
+      url: "https://www.linkedin.com/in/jian-hong-gan-64bba5192",
       icon: "linkedin"
     },
     {

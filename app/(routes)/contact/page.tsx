@@ -97,7 +97,7 @@ export default function ContactPage() {
                 <div className="mt-auto pt-6">
                   <h3 className="font-medium mb-2">Current Location</h3>
                   <p className="text-sm text-muted-foreground">
-                    Shah Alam, Malaysia
+                    Kuala Lumpur, Malaysia
                   </p>
                 </div>
               </CardContent>

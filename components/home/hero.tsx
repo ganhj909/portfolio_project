@@ -131,7 +131,7 @@ export function Hero() {
               <Button variant="outline" size="lg" asChild>
                 <a 
                   href="/resume.pdf" 
-                  download="Gan_Hong_Jian_Frontend_Resume.pdf" 
+                  download="Hong_Jian_Resume.pdf" 
                   target="_blank"                      
                   rel="noopener noreferrer"
                 >
